@@ -22,11 +22,15 @@ By analyzing important features and patterns, the project aims to better underst
 
 ## 🖼️ Data & Model Evaluation
 
+## 🎥 Demo Video
+[![demo video](https://github.com/user-attachments/assets/3fcf5860-ff44-49f7-8c2e-64b63bb380e7)](https://github.com/user-attachments/assets/e74244e0-7770-4c88-98b1-e85f6ec71759)
+
+---
+
 ### 📌 Imbalanced Data
 
 ![Imbalanced Data](https://github.com/Phat-ops/job_level_NLP/blob/main/Screenshot%202025-07-16%20085222.png?raw=true)
 
-*Figure: Data distribution showing class imbalance across job categories*
 
 ---
 
@@ -34,14 +38,9 @@ By analyzing important features and patterns, the project aims to better underst
 ### 📝 Classification Report
 
 ![Classification Report](https://github.com/Phat-ops/job_level_NLP/blob/main/Screenshot%202025-07-16%20090547.png?raw=true)
-*Figure: Detailed metrics including precision, recall, and F1-score*
 
 ---
 
-## 🎥 Demo Video
-[![demo video](https://github.com/user-attachments/assets/3fcf5860-ff44-49f7-8c2e-64b63bb380e7)](https://github.com/user-attachments/assets/e74244e0-7770-4c88-98b1-e85f6ec71759)
-
----
 
 ## ✨ Key Insights
 - Certain words or patterns in job titles and descriptions are strong indicators for specific job categories.
