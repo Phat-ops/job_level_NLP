@@ -39,7 +39,7 @@ By analyzing important features and patterns, the project aims to better underst
 ---
 
 ## 🎥 Demo Video
-![demo video](https://github.com/user-attachments/assets/3fcf5860-ff44-49f7-8c2e-64b63bb380e7)
+[![demo video](https://github.com/user-attachments/assets/3fcf5860-ff44-49f7-8c2e-64b63bb380e7)](https://github.com/user-attachments/assets/e74244e0-7770-4c88-98b1-e85f6ec71759)
 
 ---
 
