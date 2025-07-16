@@ -22,7 +22,7 @@ By analyzing important features and patterns, the project aims to better underst
 
 ## 🖼️ Data & Model Evaluation
 
-### 📌 Imbalanced Data Visualization
+### 📌 Imbalanced Data
 
 ![Imbalanced Data](https://github.com/Phat-ops/job_level_NLP/blob/main/Screenshot%202025-07-16%20085222.png?raw=true)
 
