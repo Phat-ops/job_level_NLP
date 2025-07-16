@@ -39,10 +39,7 @@ By analyzing important features and patterns, the project aims to better underst
 ---
 
 ## 🎥 Demo Video
-
-[![Video demo](https://github.com/Phat-ops/job_level_NLP/blob/main/screen-recording-2025-07-16-084222_aWecTV58.mp4)
-](https://github.com/user-attachments/assets/80250944-20df-4e00-9400-a5444207d815)
-*Click to watch a short demo of running the notebook and viewing results*
+![demo video](https://github.com/user-attachments/assets/3fcf5860-ff44-49f7-8c2e-64b63bb380e7)
 
 ---
 
